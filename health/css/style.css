@@ -1,0 +1,54 @@
+#header{
+    width:500px;
+    height: 50px;
+    border: solid 1px #000000;
+    background-color: white;
+    display:flex;
+    justify-content:center;
+    padding-inline-start: 0px;
+    margin:0 auto;
+    align-items: center;
+}
+li{
+    margin-left: 20px;
+    text-align:left;
+    margin-left: 150px;
+}
+
+#main{
+    text-align:center;
+}
+#content{
+    width:500px;
+    height: 500px;
+    border: solid 1px #000000;
+    background-color: white;
+    justify-content:center;
+    padding-inline-start: 0px;
+    margin:0 auto;
+    overflow-y: auto;
+}
+#con{
+    width:300px;
+    margin: 0 auto;
+    text-align:left;
+
+}
+#home_title{
+    font-size: 25px;
+    height: 50px;
+    line-height: 50px;
+    vertical-align: middle;
+}
+#title{
+    font-size: 20px;
+    height: 50px;
+    line-height: 50px;
+    vertical-align: middle;
+}
+
+.liCon{
+    text-align: justify;
+    text-justify: auto;
+}
+
